@@ -1,0 +1,74 @@
+
+.venue {
+    border: 1px solid black;
+    margin: 20px 50px 20px 50px;
+    padding: 1em;
+    flex-grow: 1;
+    background-color: rgba(220, 192, 255, 0.4);
+    box-shadow: rgba(0,0,0,0.5) -5px 5px;
+    width: 866px;
+}
+
+.venue-name {
+    font-size: xxx-large;
+    font-weight: bolder;
+    padding-bottom: .25em;
+}
+
+.event {
+    border-top: 1px solid black;
+    font-size: x-large;
+    display: flex;
+    justify-content: flex-end;
+    padding: .125em;
+    height: 1.75em;
+}
+
+.event:last-child {
+    border-bottom: 1px solid black;
+}
+
+.event-name {
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 1em;
+    width: 700px;
+}
+
+.event-date {
+    width: 16em;
+    display: flex;
+    justify-self: right;
+}
+
+.event-date-month, .event-date-day {
+    font-size: x-large;
+    align-self: flex-end;
+}
+
+.event-date-year {
+    font-size: medium;
+    align-self: flex-end;
+    margin-left: .5em;
+}
+
+.event-liked {
+    align-self: center;
+    justify-self: right;
+    color: darkred;
+    padding-right: 1em;
+}
+
+
+
+.Event-nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2em;
+    margin: .5em .5em 0 .5em;
+}
+
+
+
+
+

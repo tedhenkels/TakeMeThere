@@ -1,0 +1,96 @@
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 400px;
+}
+
+.events-content-container {
+    display: flex;
+    flex-direction: row;
+}
+
+#events {
+    display: flex;
+    width: 1000px;
+    justify-content: center;
+    flex-direction: column;
+    opacity: 0;
+}
+
+#events.fade-in {
+    animation: fade-in-animation 1s ease-in forwards;
+}
+
+#events.fade-out {
+    animation: fade-out-animation 1s ease-out forwards;
+}
+
+
+@keyframes fade-in-animation {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-out-animation {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+.the-fillmore {
+    background-color: rgb(230, 203, 255) !important;
+}
+
+.the-fox-theatre {
+    background-color: #ffd1b3 !important;
+}
+
+.the-warfield {
+    background-color: #a5fdff !important;
+}
+
+.august-hall {
+    background-color: #ffbacd !important;
+}
+
+.the-independent {
+    background-color: #beffb7 !important;
+}
+
+.bill-graham-civic-auditorium {
+    background-color: #bacaff !important;
+}
+
+.the-midway {
+    background-color: #ffd1ff !important;
+}
+
+.chase-center {
+    background-color: #fffaaf !important;
+}
+
+.rickshaw-stop {
+    background-color: #ffffff !important;
+}
+
+.bimbos-365 {
+    background-color: #4ce7bf !important;
+}
+
+.the-regency-ballroom {
+    background-color: #d9d9d9 !important;
+}
+
+.great-american-music-hall {
+    background-color: #00ff76 !important;
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "model": "venues.Venue",
+    "pk": 1,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Fillmore",
+      "address": "1805 Geary Blvd, San Francisco, CA 94115",
+      "url": "https://www.livenation.com/venue/KovZpZAE6eeA/the-fillmore-events"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 2,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Warfield",
+      "address": "982 Market St, San Francisco, CA 94102",
+      "url": "https://www.thewarfieldtheatre.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 3,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "Bill Graham Civic Auditorium",
+      "address": "99 Grove St, San Francisco, CA 94102",
+      "url": "https://billgrahamcivic.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 4,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Fox Theatre",
+      "address": "1807 Telegraph Avenue, Oakland, CA 94612",
+      "url": "https://thefoxoakland.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 5,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Fox Theatre",
+      "address": "1807 Telegraph Avenue, Oakland, CA 94612",
+      "url": "https://thefoxoakland.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 6,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Independent",
+      "address": "628 Divisadero St, San Francisco, CA 94117",
+      "url": "http://theindependentsf.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 7,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Midway",
+      "address": "900 Marin St, San Francisco, CA 94124",
+      "url": "https://themidwaysf.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 8,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "Chase Center",
+      "address": "1 Warriors Way, San Francisco, CA 94158",
+      "url": "https://www.chasecenter.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 9,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "Rickshaw Stop",
+      "address": "155 Fell St, San Francisco, CA 94102",
+      "url": "https://rickshawstop.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 10,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "Bimbo's 365",
+      "address": "1025 Columbus Ave, San Francisco, CA 94133",
+      "url": "https://bimbos365club.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 11,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "The Regency Ballroom",
+      "address": "1300 Van Ness Ave, San Francisco, CA 94109",
+      "url": "https://www.theregencyballroom.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 12,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "August Hall",
+      "address": "420 Mason St, San Francisco, CA 94102",
+      "url": "https://www.augusthallsf.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 13,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "August Hall",
+      "address": "420 Mason St, San Francisco, CA 94102",
+      "url": "https://www.augusthallsf.com/"
+    }
+  },
+  {
+    "model": "venues.Venue",
+    "pk": 14,
+    "fields": {
+      "created": "2023-12-27",
+      "modified": "2023-12-27",
+      "name": "Great American Music Hall",
+      "address": "420 Mason St, San Francisco, CA 94102",
+      "url": "https://www.augusthallsf.com/"
+    }
+  }
+]

@@ -1,0 +1,832 @@
+{
+  "status": "done",
+  "assets": {
+    "frontend-0502d5bc13d884e8e2bf.js": {
+      "name": "frontend-0502d5bc13d884e8e2bf.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-0502d5bc13d884e8e2bf.js",
+      "publicPath": "http://localhost:3000/staticfrontend-0502d5bc13d884e8e2bf.js"
+    },
+    "frontend-0502d5bc13d884e8e2bf.js.map": {
+      "name": "frontend-0502d5bc13d884e8e2bf.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-0502d5bc13d884e8e2bf.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-0502d5bc13d884e8e2bf.js.map"
+    },
+    "frontend-0af4882560512ccd446d.js": {
+      "name": "frontend-0af4882560512ccd446d.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-0af4882560512ccd446d.js",
+      "publicPath": "http://localhost:3000/staticfrontend-0af4882560512ccd446d.js"
+    },
+    "frontend-0af4882560512ccd446d.js.map": {
+      "name": "frontend-0af4882560512ccd446d.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-0af4882560512ccd446d.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-0af4882560512ccd446d.js.map"
+    },
+    "frontend-0c55ec456a829569083b.js": {
+      "name": "frontend-0c55ec456a829569083b.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-0c55ec456a829569083b.js",
+      "publicPath": "http://localhost:3000/staticfrontend-0c55ec456a829569083b.js"
+    },
+    "frontend-0c55ec456a829569083b.js.map": {
+      "name": "frontend-0c55ec456a829569083b.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-0c55ec456a829569083b.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-0c55ec456a829569083b.js.map"
+    },
+    "frontend-1258c03ee41316a37ab2.js": {
+      "name": "frontend-1258c03ee41316a37ab2.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-1258c03ee41316a37ab2.js",
+      "publicPath": "http://localhost:3000/staticfrontend-1258c03ee41316a37ab2.js"
+    },
+    "frontend-1258c03ee41316a37ab2.js.map": {
+      "name": "frontend-1258c03ee41316a37ab2.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-1258c03ee41316a37ab2.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-1258c03ee41316a37ab2.js.map"
+    },
+    "frontend-1c9b97d8bf1f355e0935.js": {
+      "name": "frontend-1c9b97d8bf1f355e0935.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-1c9b97d8bf1f355e0935.js",
+      "publicPath": "http://localhost:3000/staticfrontend-1c9b97d8bf1f355e0935.js"
+    },
+    "frontend-1c9b97d8bf1f355e0935.js.map": {
+      "name": "frontend-1c9b97d8bf1f355e0935.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-1c9b97d8bf1f355e0935.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-1c9b97d8bf1f355e0935.js.map"
+    },
+    "frontend-20524e9d7c2b604a8d9b.js": {
+      "name": "frontend-20524e9d7c2b604a8d9b.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-20524e9d7c2b604a8d9b.js",
+      "publicPath": "http://localhost:3000/staticfrontend-20524e9d7c2b604a8d9b.js"
+    },
+    "frontend-20524e9d7c2b604a8d9b.js.map": {
+      "name": "frontend-20524e9d7c2b604a8d9b.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-20524e9d7c2b604a8d9b.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-20524e9d7c2b604a8d9b.js.map"
+    },
+    "frontend-2bb573a2e7a241417636.js": {
+      "name": "frontend-2bb573a2e7a241417636.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-2bb573a2e7a241417636.js",
+      "publicPath": "http://localhost:3000/staticfrontend-2bb573a2e7a241417636.js"
+    },
+    "frontend-2bb573a2e7a241417636.js.map": {
+      "name": "frontend-2bb573a2e7a241417636.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-2bb573a2e7a241417636.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-2bb573a2e7a241417636.js.map"
+    },
+    "frontend-2ec37f09b9f9c076beee.js": {
+      "name": "frontend-2ec37f09b9f9c076beee.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-2ec37f09b9f9c076beee.js",
+      "publicPath": "http://localhost:3000/staticfrontend-2ec37f09b9f9c076beee.js"
+    },
+    "frontend-2ec37f09b9f9c076beee.js.map": {
+      "name": "frontend-2ec37f09b9f9c076beee.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-2ec37f09b9f9c076beee.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-2ec37f09b9f9c076beee.js.map"
+    },
+    "frontend-3059e6572bf04185e8cc.js": {
+      "name": "frontend-3059e6572bf04185e8cc.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-3059e6572bf04185e8cc.js",
+      "publicPath": "http://localhost:3000/staticfrontend-3059e6572bf04185e8cc.js"
+    },
+    "frontend-3059e6572bf04185e8cc.js.map": {
+      "name": "frontend-3059e6572bf04185e8cc.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-3059e6572bf04185e8cc.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-3059e6572bf04185e8cc.js.map"
+    },
+    "frontend-3328fe1626725da76b97.js": {
+      "name": "frontend-3328fe1626725da76b97.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-3328fe1626725da76b97.js",
+      "publicPath": "http://localhost:3000/staticfrontend-3328fe1626725da76b97.js"
+    },
+    "frontend-3328fe1626725da76b97.js.map": {
+      "name": "frontend-3328fe1626725da76b97.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-3328fe1626725da76b97.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-3328fe1626725da76b97.js.map"
+    },
+    "frontend-3f28ce6e497bb2f0c6c7.js": {
+      "name": "frontend-3f28ce6e497bb2f0c6c7.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-3f28ce6e497bb2f0c6c7.js",
+      "publicPath": "http://localhost:3000/staticfrontend-3f28ce6e497bb2f0c6c7.js"
+    },
+    "frontend-3f28ce6e497bb2f0c6c7.js.map": {
+      "name": "frontend-3f28ce6e497bb2f0c6c7.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-3f28ce6e497bb2f0c6c7.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-3f28ce6e497bb2f0c6c7.js.map"
+    },
+    "frontend-40c2f171dee650ab902e.js": {
+      "name": "frontend-40c2f171dee650ab902e.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-40c2f171dee650ab902e.js",
+      "publicPath": "http://localhost:3000/staticfrontend-40c2f171dee650ab902e.js"
+    },
+    "frontend-40c2f171dee650ab902e.js.map": {
+      "name": "frontend-40c2f171dee650ab902e.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-40c2f171dee650ab902e.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-40c2f171dee650ab902e.js.map"
+    },
+    "frontend-440590c83aed136a8987.js": {
+      "name": "frontend-440590c83aed136a8987.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-440590c83aed136a8987.js",
+      "publicPath": "http://localhost:3000/staticfrontend-440590c83aed136a8987.js"
+    },
+    "frontend-440590c83aed136a8987.js.map": {
+      "name": "frontend-440590c83aed136a8987.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-440590c83aed136a8987.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-440590c83aed136a8987.js.map"
+    },
+    "frontend-4605d86045ea4c7b9f11.js": {
+      "name": "frontend-4605d86045ea4c7b9f11.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-4605d86045ea4c7b9f11.js",
+      "publicPath": "http://localhost:3000/staticfrontend-4605d86045ea4c7b9f11.js"
+    },
+    "frontend-4605d86045ea4c7b9f11.js.map": {
+      "name": "frontend-4605d86045ea4c7b9f11.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-4605d86045ea4c7b9f11.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-4605d86045ea4c7b9f11.js.map"
+    },
+    "frontend-5d413de866d3e90cc66b.js": {
+      "name": "frontend-5d413de866d3e90cc66b.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-5d413de866d3e90cc66b.js",
+      "publicPath": "http://localhost:3000/staticfrontend-5d413de866d3e90cc66b.js"
+    },
+    "frontend-5d413de866d3e90cc66b.js.map": {
+      "name": "frontend-5d413de866d3e90cc66b.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-5d413de866d3e90cc66b.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-5d413de866d3e90cc66b.js.map"
+    },
+    "frontend-5d555cf854b420a4ad34.js": {
+      "name": "frontend-5d555cf854b420a4ad34.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-5d555cf854b420a4ad34.js",
+      "publicPath": "http://localhost:3000/staticfrontend-5d555cf854b420a4ad34.js"
+    },
+    "frontend-5d555cf854b420a4ad34.js.map": {
+      "name": "frontend-5d555cf854b420a4ad34.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-5d555cf854b420a4ad34.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-5d555cf854b420a4ad34.js.map"
+    },
+    "frontend-5f96837d03636df2298c.js": {
+      "name": "frontend-5f96837d03636df2298c.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-5f96837d03636df2298c.js",
+      "publicPath": "http://localhost:3000/staticfrontend-5f96837d03636df2298c.js"
+    },
+    "frontend-5f96837d03636df2298c.js.map": {
+      "name": "frontend-5f96837d03636df2298c.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-5f96837d03636df2298c.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-5f96837d03636df2298c.js.map"
+    },
+    "frontend-661c4c39902fded713e2.js": {
+      "name": "frontend-661c4c39902fded713e2.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-661c4c39902fded713e2.js",
+      "publicPath": "http://localhost:3000/staticfrontend-661c4c39902fded713e2.js"
+    },
+    "frontend-661c4c39902fded713e2.js.map": {
+      "name": "frontend-661c4c39902fded713e2.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-661c4c39902fded713e2.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-661c4c39902fded713e2.js.map"
+    },
+    "frontend-6953e8b713fee428af30.js": {
+      "name": "frontend-6953e8b713fee428af30.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-6953e8b713fee428af30.js",
+      "publicPath": "http://localhost:3000/staticfrontend-6953e8b713fee428af30.js"
+    },
+    "frontend-6953e8b713fee428af30.js.map": {
+      "name": "frontend-6953e8b713fee428af30.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-6953e8b713fee428af30.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-6953e8b713fee428af30.js.map"
+    },
+    "frontend-7decd840f1a28de55016.js": {
+      "name": "frontend-7decd840f1a28de55016.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-7decd840f1a28de55016.js",
+      "publicPath": "http://localhost:3000/staticfrontend-7decd840f1a28de55016.js"
+    },
+    "frontend-7decd840f1a28de55016.js.map": {
+      "name": "frontend-7decd840f1a28de55016.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-7decd840f1a28de55016.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-7decd840f1a28de55016.js.map"
+    },
+    "frontend-8060a6cf26ff5f6c2a6a.js": {
+      "name": "frontend-8060a6cf26ff5f6c2a6a.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-8060a6cf26ff5f6c2a6a.js",
+      "publicPath": "http://localhost:3000/staticfrontend-8060a6cf26ff5f6c2a6a.js"
+    },
+    "frontend-8060a6cf26ff5f6c2a6a.js.map": {
+      "name": "frontend-8060a6cf26ff5f6c2a6a.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-8060a6cf26ff5f6c2a6a.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-8060a6cf26ff5f6c2a6a.js.map"
+    },
+    "frontend-8099f22a3b1fae18b745.js": {
+      "name": "frontend-8099f22a3b1fae18b745.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-8099f22a3b1fae18b745.js",
+      "publicPath": "http://localhost:3000/staticfrontend-8099f22a3b1fae18b745.js"
+    },
+    "frontend-8099f22a3b1fae18b745.js.map": {
+      "name": "frontend-8099f22a3b1fae18b745.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-8099f22a3b1fae18b745.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-8099f22a3b1fae18b745.js.map"
+    },
+    "frontend-966b29b9e25035f52341.js": {
+      "name": "frontend-966b29b9e25035f52341.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-966b29b9e25035f52341.js",
+      "publicPath": "http://localhost:3000/staticfrontend-966b29b9e25035f52341.js"
+    },
+    "frontend-966b29b9e25035f52341.js.map": {
+      "name": "frontend-966b29b9e25035f52341.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-966b29b9e25035f52341.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-966b29b9e25035f52341.js.map"
+    },
+    "frontend-9b7c7522e1b49b4fd1e9.js": {
+      "name": "frontend-9b7c7522e1b49b4fd1e9.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-9b7c7522e1b49b4fd1e9.js",
+      "publicPath": "http://localhost:3000/staticfrontend-9b7c7522e1b49b4fd1e9.js"
+    },
+    "frontend-9b7c7522e1b49b4fd1e9.js.map": {
+      "name": "frontend-9b7c7522e1b49b4fd1e9.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-9b7c7522e1b49b4fd1e9.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-9b7c7522e1b49b4fd1e9.js.map"
+    },
+    "frontend-9c421929085dff954f88.js": {
+      "name": "frontend-9c421929085dff954f88.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-9c421929085dff954f88.js",
+      "publicPath": "http://localhost:3000/staticfrontend-9c421929085dff954f88.js"
+    },
+    "frontend-9c421929085dff954f88.js.map": {
+      "name": "frontend-9c421929085dff954f88.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-9c421929085dff954f88.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-9c421929085dff954f88.js.map"
+    },
+    "frontend-c835f3f261d53be552d8.js": {
+      "name": "frontend-c835f3f261d53be552d8.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-c835f3f261d53be552d8.js",
+      "publicPath": "http://localhost:3000/staticfrontend-c835f3f261d53be552d8.js"
+    },
+    "frontend-c835f3f261d53be552d8.js.map": {
+      "name": "frontend-c835f3f261d53be552d8.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-c835f3f261d53be552d8.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-c835f3f261d53be552d8.js.map"
+    },
+    "frontend-e83bfbf198eea11a9af0.js": {
+      "name": "frontend-e83bfbf198eea11a9af0.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-e83bfbf198eea11a9af0.js",
+      "publicPath": "http://localhost:3000/staticfrontend-e83bfbf198eea11a9af0.js"
+    },
+    "frontend-e83bfbf198eea11a9af0.js.map": {
+      "name": "frontend-e83bfbf198eea11a9af0.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-e83bfbf198eea11a9af0.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-e83bfbf198eea11a9af0.js.map"
+    },
+    "frontend-e9a2d7cfbb6bc5ea7815.js": {
+      "name": "frontend-e9a2d7cfbb6bc5ea7815.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-e9a2d7cfbb6bc5ea7815.js",
+      "publicPath": "http://localhost:3000/staticfrontend-e9a2d7cfbb6bc5ea7815.js"
+    },
+    "frontend-e9a2d7cfbb6bc5ea7815.js.map": {
+      "name": "frontend-e9a2d7cfbb6bc5ea7815.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-e9a2d7cfbb6bc5ea7815.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-e9a2d7cfbb6bc5ea7815.js.map"
+    },
+    "frontend-ee7c27d7283eadc9af6c.js": {
+      "name": "frontend-ee7c27d7283eadc9af6c.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-ee7c27d7283eadc9af6c.js",
+      "publicPath": "http://localhost:3000/staticfrontend-ee7c27d7283eadc9af6c.js"
+    },
+    "frontend-ee7c27d7283eadc9af6c.js.map": {
+      "name": "frontend-ee7c27d7283eadc9af6c.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-ee7c27d7283eadc9af6c.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-ee7c27d7283eadc9af6c.js.map"
+    },
+    "frontend-f8e4dff0edd84e2898ec.js": {
+      "name": "frontend-f8e4dff0edd84e2898ec.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-f8e4dff0edd84e2898ec.js",
+      "publicPath": "http://localhost:3000/staticfrontend-f8e4dff0edd84e2898ec.js"
+    },
+    "frontend-f8e4dff0edd84e2898ec.js.map": {
+      "name": "frontend-f8e4dff0edd84e2898ec.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-f8e4dff0edd84e2898ec.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-f8e4dff0edd84e2898ec.js.map"
+    },
+    "frontend-fb811d1e81715e7fb4a2.js": {
+      "name": "frontend-fb811d1e81715e7fb4a2.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-fb811d1e81715e7fb4a2.js",
+      "publicPath": "http://localhost:3000/staticfrontend-fb811d1e81715e7fb4a2.js"
+    },
+    "frontend-fb811d1e81715e7fb4a2.js.map": {
+      "name": "frontend-fb811d1e81715e7fb4a2.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-fb811d1e81715e7fb4a2.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-fb811d1e81715e7fb4a2.js.map"
+    },
+    "frontend-fd913e7f84e61497513b.js": {
+      "name": "frontend-fd913e7f84e61497513b.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-fd913e7f84e61497513b.js",
+      "publicPath": "http://localhost:3000/staticfrontend-fd913e7f84e61497513b.js"
+    },
+    "frontend-fd913e7f84e61497513b.js.map": {
+      "name": "frontend-fd913e7f84e61497513b.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-fd913e7f84e61497513b.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-fd913e7f84e61497513b.js.map"
+    },
+    "frontend-fe5cfdd549f1d8645d5e.js": {
+      "name": "frontend-fe5cfdd549f1d8645d5e.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-fe5cfdd549f1d8645d5e.js",
+      "publicPath": "http://localhost:3000/staticfrontend-fe5cfdd549f1d8645d5e.js"
+    },
+    "frontend-fe5cfdd549f1d8645d5e.js.map": {
+      "name": "frontend-fe5cfdd549f1d8645d5e.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend-fe5cfdd549f1d8645d5e.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend-fe5cfdd549f1d8645d5e.js.map"
+    },
+    "frontend.06a1b64f3ef5c32195bc.hot-update.js": {
+      "name": "frontend.06a1b64f3ef5c32195bc.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.06a1b64f3ef5c32195bc.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.06a1b64f3ef5c32195bc.hot-update.js"
+    },
+    "frontend.06a1b64f3ef5c32195bc.hot-update.js.map": {
+      "name": "frontend.06a1b64f3ef5c32195bc.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.06a1b64f3ef5c32195bc.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.06a1b64f3ef5c32195bc.hot-update.js.map"
+    },
+    "frontend.06a1b64f3ef5c32195bc.hot-update.json": {
+      "name": "frontend.06a1b64f3ef5c32195bc.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.06a1b64f3ef5c32195bc.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.06a1b64f3ef5c32195bc.hot-update.json"
+    },
+    "frontend.0c4bc2c90f7159eb7d08.hot-update.js": {
+      "name": "frontend.0c4bc2c90f7159eb7d08.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.0c4bc2c90f7159eb7d08.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.0c4bc2c90f7159eb7d08.hot-update.js"
+    },
+    "frontend.0c4bc2c90f7159eb7d08.hot-update.js.map": {
+      "name": "frontend.0c4bc2c90f7159eb7d08.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.0c4bc2c90f7159eb7d08.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.0c4bc2c90f7159eb7d08.hot-update.js.map"
+    },
+    "frontend.0c4bc2c90f7159eb7d08.hot-update.json": {
+      "name": "frontend.0c4bc2c90f7159eb7d08.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.0c4bc2c90f7159eb7d08.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.0c4bc2c90f7159eb7d08.hot-update.json"
+    },
+    "frontend.126125139bef886200e8.hot-update.js": {
+      "name": "frontend.126125139bef886200e8.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.126125139bef886200e8.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.126125139bef886200e8.hot-update.js"
+    },
+    "frontend.126125139bef886200e8.hot-update.js.map": {
+      "name": "frontend.126125139bef886200e8.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.126125139bef886200e8.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.126125139bef886200e8.hot-update.js.map"
+    },
+    "frontend.126125139bef886200e8.hot-update.json": {
+      "name": "frontend.126125139bef886200e8.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.126125139bef886200e8.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.126125139bef886200e8.hot-update.json"
+    },
+    "frontend.13a60adbaa45a28cfa38.hot-update.js": {
+      "name": "frontend.13a60adbaa45a28cfa38.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.13a60adbaa45a28cfa38.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.13a60adbaa45a28cfa38.hot-update.js"
+    },
+    "frontend.13a60adbaa45a28cfa38.hot-update.js.map": {
+      "name": "frontend.13a60adbaa45a28cfa38.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.13a60adbaa45a28cfa38.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.13a60adbaa45a28cfa38.hot-update.js.map"
+    },
+    "frontend.13a60adbaa45a28cfa38.hot-update.json": {
+      "name": "frontend.13a60adbaa45a28cfa38.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.13a60adbaa45a28cfa38.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.13a60adbaa45a28cfa38.hot-update.json"
+    },
+    "frontend.1538d45e694f6de2b97e.hot-update.js": {
+      "name": "frontend.1538d45e694f6de2b97e.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.1538d45e694f6de2b97e.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.1538d45e694f6de2b97e.hot-update.js"
+    },
+    "frontend.1538d45e694f6de2b97e.hot-update.js.map": {
+      "name": "frontend.1538d45e694f6de2b97e.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.1538d45e694f6de2b97e.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.1538d45e694f6de2b97e.hot-update.js.map"
+    },
+    "frontend.1538d45e694f6de2b97e.hot-update.json": {
+      "name": "frontend.1538d45e694f6de2b97e.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.1538d45e694f6de2b97e.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.1538d45e694f6de2b97e.hot-update.json"
+    },
+    "frontend.17d0f6974908ba2b87aa.hot-update.js": {
+      "name": "frontend.17d0f6974908ba2b87aa.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.17d0f6974908ba2b87aa.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.17d0f6974908ba2b87aa.hot-update.js"
+    },
+    "frontend.17d0f6974908ba2b87aa.hot-update.js.map": {
+      "name": "frontend.17d0f6974908ba2b87aa.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.17d0f6974908ba2b87aa.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.17d0f6974908ba2b87aa.hot-update.js.map"
+    },
+    "frontend.17d0f6974908ba2b87aa.hot-update.json": {
+      "name": "frontend.17d0f6974908ba2b87aa.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.17d0f6974908ba2b87aa.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.17d0f6974908ba2b87aa.hot-update.json"
+    },
+    "frontend.1dd65f8fba0e1ed5762c.hot-update.js": {
+      "name": "frontend.1dd65f8fba0e1ed5762c.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.1dd65f8fba0e1ed5762c.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.1dd65f8fba0e1ed5762c.hot-update.js"
+    },
+    "frontend.1dd65f8fba0e1ed5762c.hot-update.js.map": {
+      "name": "frontend.1dd65f8fba0e1ed5762c.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.1dd65f8fba0e1ed5762c.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.1dd65f8fba0e1ed5762c.hot-update.js.map"
+    },
+    "frontend.1dd65f8fba0e1ed5762c.hot-update.json": {
+      "name": "frontend.1dd65f8fba0e1ed5762c.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.1dd65f8fba0e1ed5762c.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.1dd65f8fba0e1ed5762c.hot-update.json"
+    },
+    "frontend.29e7b58f3859223fab0b.hot-update.js": {
+      "name": "frontend.29e7b58f3859223fab0b.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.29e7b58f3859223fab0b.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.29e7b58f3859223fab0b.hot-update.js"
+    },
+    "frontend.29e7b58f3859223fab0b.hot-update.js.map": {
+      "name": "frontend.29e7b58f3859223fab0b.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.29e7b58f3859223fab0b.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.29e7b58f3859223fab0b.hot-update.js.map"
+    },
+    "frontend.29e7b58f3859223fab0b.hot-update.json": {
+      "name": "frontend.29e7b58f3859223fab0b.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.29e7b58f3859223fab0b.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.29e7b58f3859223fab0b.hot-update.json"
+    },
+    "frontend.394556eff468492dc7b8.hot-update.js": {
+      "name": "frontend.394556eff468492dc7b8.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.394556eff468492dc7b8.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.394556eff468492dc7b8.hot-update.js"
+    },
+    "frontend.394556eff468492dc7b8.hot-update.js.map": {
+      "name": "frontend.394556eff468492dc7b8.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.394556eff468492dc7b8.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.394556eff468492dc7b8.hot-update.js.map"
+    },
+    "frontend.394556eff468492dc7b8.hot-update.json": {
+      "name": "frontend.394556eff468492dc7b8.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.394556eff468492dc7b8.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.394556eff468492dc7b8.hot-update.json"
+    },
+    "frontend.3ddc38ab288b0b41b771.hot-update.js": {
+      "name": "frontend.3ddc38ab288b0b41b771.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.3ddc38ab288b0b41b771.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.3ddc38ab288b0b41b771.hot-update.js"
+    },
+    "frontend.3ddc38ab288b0b41b771.hot-update.js.map": {
+      "name": "frontend.3ddc38ab288b0b41b771.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.3ddc38ab288b0b41b771.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.3ddc38ab288b0b41b771.hot-update.js.map"
+    },
+    "frontend.3ddc38ab288b0b41b771.hot-update.json": {
+      "name": "frontend.3ddc38ab288b0b41b771.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.3ddc38ab288b0b41b771.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.3ddc38ab288b0b41b771.hot-update.json"
+    },
+    "frontend.4d40de5766d02010dad5.hot-update.js": {
+      "name": "frontend.4d40de5766d02010dad5.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.4d40de5766d02010dad5.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.4d40de5766d02010dad5.hot-update.js"
+    },
+    "frontend.4d40de5766d02010dad5.hot-update.js.map": {
+      "name": "frontend.4d40de5766d02010dad5.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.4d40de5766d02010dad5.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.4d40de5766d02010dad5.hot-update.js.map"
+    },
+    "frontend.4d40de5766d02010dad5.hot-update.json": {
+      "name": "frontend.4d40de5766d02010dad5.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.4d40de5766d02010dad5.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.4d40de5766d02010dad5.hot-update.json"
+    },
+    "frontend.558fb7c53ee1b485f0b1.hot-update.js": {
+      "name": "frontend.558fb7c53ee1b485f0b1.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.558fb7c53ee1b485f0b1.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.558fb7c53ee1b485f0b1.hot-update.js"
+    },
+    "frontend.558fb7c53ee1b485f0b1.hot-update.js.map": {
+      "name": "frontend.558fb7c53ee1b485f0b1.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.558fb7c53ee1b485f0b1.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.558fb7c53ee1b485f0b1.hot-update.js.map"
+    },
+    "frontend.558fb7c53ee1b485f0b1.hot-update.json": {
+      "name": "frontend.558fb7c53ee1b485f0b1.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.558fb7c53ee1b485f0b1.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.558fb7c53ee1b485f0b1.hot-update.json"
+    },
+    "frontend.722557508e3416f967f0.hot-update.js": {
+      "name": "frontend.722557508e3416f967f0.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.722557508e3416f967f0.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.722557508e3416f967f0.hot-update.js"
+    },
+    "frontend.722557508e3416f967f0.hot-update.js.map": {
+      "name": "frontend.722557508e3416f967f0.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.722557508e3416f967f0.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.722557508e3416f967f0.hot-update.js.map"
+    },
+    "frontend.722557508e3416f967f0.hot-update.json": {
+      "name": "frontend.722557508e3416f967f0.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.722557508e3416f967f0.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.722557508e3416f967f0.hot-update.json"
+    },
+    "frontend.7b0705045b4f45b4e00c.hot-update.js": {
+      "name": "frontend.7b0705045b4f45b4e00c.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7b0705045b4f45b4e00c.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.7b0705045b4f45b4e00c.hot-update.js"
+    },
+    "frontend.7b0705045b4f45b4e00c.hot-update.js.map": {
+      "name": "frontend.7b0705045b4f45b4e00c.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7b0705045b4f45b4e00c.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.7b0705045b4f45b4e00c.hot-update.js.map"
+    },
+    "frontend.7b0705045b4f45b4e00c.hot-update.json": {
+      "name": "frontend.7b0705045b4f45b4e00c.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7b0705045b4f45b4e00c.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.7b0705045b4f45b4e00c.hot-update.json"
+    },
+    "frontend.7b2b9a4ce18bd1159d30.hot-update.js": {
+      "name": "frontend.7b2b9a4ce18bd1159d30.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7b2b9a4ce18bd1159d30.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.7b2b9a4ce18bd1159d30.hot-update.js"
+    },
+    "frontend.7b2b9a4ce18bd1159d30.hot-update.js.map": {
+      "name": "frontend.7b2b9a4ce18bd1159d30.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7b2b9a4ce18bd1159d30.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.7b2b9a4ce18bd1159d30.hot-update.js.map"
+    },
+    "frontend.7b2b9a4ce18bd1159d30.hot-update.json": {
+      "name": "frontend.7b2b9a4ce18bd1159d30.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7b2b9a4ce18bd1159d30.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.7b2b9a4ce18bd1159d30.hot-update.json"
+    },
+    "frontend.7e2c69b972abe38a36e9.hot-update.js": {
+      "name": "frontend.7e2c69b972abe38a36e9.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7e2c69b972abe38a36e9.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.7e2c69b972abe38a36e9.hot-update.js"
+    },
+    "frontend.7e2c69b972abe38a36e9.hot-update.js.map": {
+      "name": "frontend.7e2c69b972abe38a36e9.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7e2c69b972abe38a36e9.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.7e2c69b972abe38a36e9.hot-update.js.map"
+    },
+    "frontend.7e2c69b972abe38a36e9.hot-update.json": {
+      "name": "frontend.7e2c69b972abe38a36e9.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.7e2c69b972abe38a36e9.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.7e2c69b972abe38a36e9.hot-update.json"
+    },
+    "frontend.8f4376ceeb36a2f31910.hot-update.js": {
+      "name": "frontend.8f4376ceeb36a2f31910.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.8f4376ceeb36a2f31910.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.8f4376ceeb36a2f31910.hot-update.js"
+    },
+    "frontend.8f4376ceeb36a2f31910.hot-update.js.map": {
+      "name": "frontend.8f4376ceeb36a2f31910.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.8f4376ceeb36a2f31910.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.8f4376ceeb36a2f31910.hot-update.js.map"
+    },
+    "frontend.8f4376ceeb36a2f31910.hot-update.json": {
+      "name": "frontend.8f4376ceeb36a2f31910.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.8f4376ceeb36a2f31910.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.8f4376ceeb36a2f31910.hot-update.json"
+    },
+    "frontend.978a72c174b44beb07bd.hot-update.js": {
+      "name": "frontend.978a72c174b44beb07bd.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.978a72c174b44beb07bd.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.978a72c174b44beb07bd.hot-update.js"
+    },
+    "frontend.978a72c174b44beb07bd.hot-update.js.map": {
+      "name": "frontend.978a72c174b44beb07bd.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.978a72c174b44beb07bd.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.978a72c174b44beb07bd.hot-update.js.map"
+    },
+    "frontend.978a72c174b44beb07bd.hot-update.json": {
+      "name": "frontend.978a72c174b44beb07bd.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.978a72c174b44beb07bd.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.978a72c174b44beb07bd.hot-update.json"
+    },
+    "frontend.a1626a44d02f9abc6a8a.hot-update.js": {
+      "name": "frontend.a1626a44d02f9abc6a8a.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.a1626a44d02f9abc6a8a.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.a1626a44d02f9abc6a8a.hot-update.js"
+    },
+    "frontend.a1626a44d02f9abc6a8a.hot-update.js.map": {
+      "name": "frontend.a1626a44d02f9abc6a8a.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.a1626a44d02f9abc6a8a.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.a1626a44d02f9abc6a8a.hot-update.js.map"
+    },
+    "frontend.a1626a44d02f9abc6a8a.hot-update.json": {
+      "name": "frontend.a1626a44d02f9abc6a8a.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.a1626a44d02f9abc6a8a.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.a1626a44d02f9abc6a8a.hot-update.json"
+    },
+    "frontend.b4c133566fc11fb69c77.hot-update.js": {
+      "name": "frontend.b4c133566fc11fb69c77.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.b4c133566fc11fb69c77.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.b4c133566fc11fb69c77.hot-update.js"
+    },
+    "frontend.b4c133566fc11fb69c77.hot-update.js.map": {
+      "name": "frontend.b4c133566fc11fb69c77.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.b4c133566fc11fb69c77.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.b4c133566fc11fb69c77.hot-update.js.map"
+    },
+    "frontend.b4c133566fc11fb69c77.hot-update.json": {
+      "name": "frontend.b4c133566fc11fb69c77.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.b4c133566fc11fb69c77.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.b4c133566fc11fb69c77.hot-update.json"
+    },
+    "frontend.b5916e5e8e9904333daf.hot-update.js": {
+      "name": "frontend.b5916e5e8e9904333daf.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.b5916e5e8e9904333daf.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.b5916e5e8e9904333daf.hot-update.js"
+    },
+    "frontend.b5916e5e8e9904333daf.hot-update.js.map": {
+      "name": "frontend.b5916e5e8e9904333daf.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.b5916e5e8e9904333daf.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.b5916e5e8e9904333daf.hot-update.js.map"
+    },
+    "frontend.b5916e5e8e9904333daf.hot-update.json": {
+      "name": "frontend.b5916e5e8e9904333daf.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.b5916e5e8e9904333daf.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.b5916e5e8e9904333daf.hot-update.json"
+    },
+    "frontend.c6560a9c4094b2b0c59d.hot-update.js": {
+      "name": "frontend.c6560a9c4094b2b0c59d.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.c6560a9c4094b2b0c59d.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.c6560a9c4094b2b0c59d.hot-update.js"
+    },
+    "frontend.c6560a9c4094b2b0c59d.hot-update.js.map": {
+      "name": "frontend.c6560a9c4094b2b0c59d.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.c6560a9c4094b2b0c59d.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.c6560a9c4094b2b0c59d.hot-update.js.map"
+    },
+    "frontend.c6560a9c4094b2b0c59d.hot-update.json": {
+      "name": "frontend.c6560a9c4094b2b0c59d.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.c6560a9c4094b2b0c59d.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.c6560a9c4094b2b0c59d.hot-update.json"
+    },
+    "frontend.ca21ec5163b3bd83c3c8.hot-update.js": {
+      "name": "frontend.ca21ec5163b3bd83c3c8.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.ca21ec5163b3bd83c3c8.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.ca21ec5163b3bd83c3c8.hot-update.js"
+    },
+    "frontend.ca21ec5163b3bd83c3c8.hot-update.js.map": {
+      "name": "frontend.ca21ec5163b3bd83c3c8.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.ca21ec5163b3bd83c3c8.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.ca21ec5163b3bd83c3c8.hot-update.js.map"
+    },
+    "frontend.ca21ec5163b3bd83c3c8.hot-update.json": {
+      "name": "frontend.ca21ec5163b3bd83c3c8.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.ca21ec5163b3bd83c3c8.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.ca21ec5163b3bd83c3c8.hot-update.json"
+    },
+    "frontend.cad3d4cd6edc764a3017.hot-update.js": {
+      "name": "frontend.cad3d4cd6edc764a3017.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.cad3d4cd6edc764a3017.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.cad3d4cd6edc764a3017.hot-update.js"
+    },
+    "frontend.cad3d4cd6edc764a3017.hot-update.js.map": {
+      "name": "frontend.cad3d4cd6edc764a3017.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.cad3d4cd6edc764a3017.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.cad3d4cd6edc764a3017.hot-update.js.map"
+    },
+    "frontend.cad3d4cd6edc764a3017.hot-update.json": {
+      "name": "frontend.cad3d4cd6edc764a3017.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.cad3d4cd6edc764a3017.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.cad3d4cd6edc764a3017.hot-update.json"
+    },
+    "frontend.cc013c360fab2df4e962.hot-update.js": {
+      "name": "frontend.cc013c360fab2df4e962.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.cc013c360fab2df4e962.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.cc013c360fab2df4e962.hot-update.js"
+    },
+    "frontend.cc013c360fab2df4e962.hot-update.js.map": {
+      "name": "frontend.cc013c360fab2df4e962.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.cc013c360fab2df4e962.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.cc013c360fab2df4e962.hot-update.js.map"
+    },
+    "frontend.cc013c360fab2df4e962.hot-update.json": {
+      "name": "frontend.cc013c360fab2df4e962.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.cc013c360fab2df4e962.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.cc013c360fab2df4e962.hot-update.json"
+    },
+    "frontend.d202427300a80c209e7d.hot-update.js": {
+      "name": "frontend.d202427300a80c209e7d.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.d202427300a80c209e7d.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.d202427300a80c209e7d.hot-update.js"
+    },
+    "frontend.d202427300a80c209e7d.hot-update.js.map": {
+      "name": "frontend.d202427300a80c209e7d.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.d202427300a80c209e7d.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.d202427300a80c209e7d.hot-update.js.map"
+    },
+    "frontend.d202427300a80c209e7d.hot-update.json": {
+      "name": "frontend.d202427300a80c209e7d.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.d202427300a80c209e7d.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.d202427300a80c209e7d.hot-update.json"
+    },
+    "frontend.daca212910a3d6b3d2c0.hot-update.js": {
+      "name": "frontend.daca212910a3d6b3d2c0.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.daca212910a3d6b3d2c0.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.daca212910a3d6b3d2c0.hot-update.js"
+    },
+    "frontend.daca212910a3d6b3d2c0.hot-update.js.map": {
+      "name": "frontend.daca212910a3d6b3d2c0.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.daca212910a3d6b3d2c0.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.daca212910a3d6b3d2c0.hot-update.js.map"
+    },
+    "frontend.daca212910a3d6b3d2c0.hot-update.json": {
+      "name": "frontend.daca212910a3d6b3d2c0.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.daca212910a3d6b3d2c0.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.daca212910a3d6b3d2c0.hot-update.json"
+    },
+    "frontend.e05b3e168709a83ea425.hot-update.js": {
+      "name": "frontend.e05b3e168709a83ea425.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.e05b3e168709a83ea425.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.e05b3e168709a83ea425.hot-update.js"
+    },
+    "frontend.e05b3e168709a83ea425.hot-update.js.map": {
+      "name": "frontend.e05b3e168709a83ea425.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.e05b3e168709a83ea425.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.e05b3e168709a83ea425.hot-update.js.map"
+    },
+    "frontend.e05b3e168709a83ea425.hot-update.json": {
+      "name": "frontend.e05b3e168709a83ea425.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.e05b3e168709a83ea425.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.e05b3e168709a83ea425.hot-update.json"
+    },
+    "frontend.e3eedcfc5b1b558ac4f0.hot-update.js": {
+      "name": "frontend.e3eedcfc5b1b558ac4f0.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.e3eedcfc5b1b558ac4f0.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.e3eedcfc5b1b558ac4f0.hot-update.js"
+    },
+    "frontend.e3eedcfc5b1b558ac4f0.hot-update.js.map": {
+      "name": "frontend.e3eedcfc5b1b558ac4f0.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.e3eedcfc5b1b558ac4f0.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.e3eedcfc5b1b558ac4f0.hot-update.js.map"
+    },
+    "frontend.e3eedcfc5b1b558ac4f0.hot-update.json": {
+      "name": "frontend.e3eedcfc5b1b558ac4f0.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.e3eedcfc5b1b558ac4f0.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.e3eedcfc5b1b558ac4f0.hot-update.json"
+    },
+    "frontend.ea3d125b0b51ddac9686.hot-update.js": {
+      "name": "frontend.ea3d125b0b51ddac9686.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.ea3d125b0b51ddac9686.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.ea3d125b0b51ddac9686.hot-update.js"
+    },
+    "frontend.ea3d125b0b51ddac9686.hot-update.js.map": {
+      "name": "frontend.ea3d125b0b51ddac9686.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.ea3d125b0b51ddac9686.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.ea3d125b0b51ddac9686.hot-update.js.map"
+    },
+    "frontend.ea3d125b0b51ddac9686.hot-update.json": {
+      "name": "frontend.ea3d125b0b51ddac9686.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.ea3d125b0b51ddac9686.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.ea3d125b0b51ddac9686.hot-update.json"
+    },
+    "frontend.edf0f03b39f8fb2a2357.hot-update.js": {
+      "name": "frontend.edf0f03b39f8fb2a2357.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.edf0f03b39f8fb2a2357.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.edf0f03b39f8fb2a2357.hot-update.js"
+    },
+    "frontend.edf0f03b39f8fb2a2357.hot-update.js.map": {
+      "name": "frontend.edf0f03b39f8fb2a2357.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.edf0f03b39f8fb2a2357.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.edf0f03b39f8fb2a2357.hot-update.js.map"
+    },
+    "frontend.edf0f03b39f8fb2a2357.hot-update.json": {
+      "name": "frontend.edf0f03b39f8fb2a2357.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.edf0f03b39f8fb2a2357.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.edf0f03b39f8fb2a2357.hot-update.json"
+    },
+    "frontend.f5bbba08b59e91a6998a.hot-update.js": {
+      "name": "frontend.f5bbba08b59e91a6998a.hot-update.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.f5bbba08b59e91a6998a.hot-update.js",
+      "publicPath": "http://localhost:3000/staticfrontend.f5bbba08b59e91a6998a.hot-update.js"
+    },
+    "frontend.f5bbba08b59e91a6998a.hot-update.js.map": {
+      "name": "frontend.f5bbba08b59e91a6998a.hot-update.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.f5bbba08b59e91a6998a.hot-update.js.map",
+      "publicPath": "http://localhost:3000/staticfrontend.f5bbba08b59e91a6998a.hot-update.js.map"
+    },
+    "frontend.f5bbba08b59e91a6998a.hot-update.json": {
+      "name": "frontend.f5bbba08b59e91a6998a.hot-update.json",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/frontend.f5bbba08b59e91a6998a.hot-update.json",
+      "publicPath": "http://localhost:3000/staticfrontend.f5bbba08b59e91a6998a.hot-update.json"
+    },
+    "node_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js": {
+      "name": "node_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/node_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js",
+      "publicPath": "http://localhost:3000/staticnode_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js"
+    },
+    "node_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js.map": {
+      "name": "node_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js.map",
+      "path": "/Users/tedhenkels/Dev/TakeMeThere/TakeMeThere/static/node_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js.map",
+      "publicPath": "http://localhost:3000/staticnode_modules_web-vitals_dist_web-vitals_js-a81ca6b0bf0261e59f0f.js.map"
+    }
+  },
+  "chunks": {
+    "frontend": [
+      "frontend-3f28ce6e497bb2f0c6c7.js",
+      "frontend.daca212910a3d6b3d2c0.hot-update.js"
+    ]
+  },
+  "publicPath": "http://localhost:3000/static"
+}

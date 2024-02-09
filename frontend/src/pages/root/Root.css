@@ -1,0 +1,24 @@
+.content-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #fbfff0;
+    overflow: auto;
+    scrollbar-gutter: stable;
+    height: calc(100vh - 129px);
+}
+
+.content {
+    display: flex;
+    align-items: flex-start;
+    width: 1432px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+}

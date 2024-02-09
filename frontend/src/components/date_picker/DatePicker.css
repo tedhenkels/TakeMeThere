@@ -1,0 +1,80 @@
+.date-picker {
+    background-color: #dafff2;
+    border: 1px black solid;
+    display: flex;
+    flex-direction: column;
+    padding: .5em;
+    margin: 1em;
+}
+
+
+.date-picker-button {
+    display: flex;
+    flex-direction: row;
+    font-size: large;
+}
+
+.date-picker-button:hover {
+    cursor: pointer;
+}
+
+.date-picker-label {
+    flex: 1;
+    font-weight: bold;
+}
+
+.date-picker-dates {
+    flex: 2;
+}
+
+.calendar {
+    margin: 1em;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.calendar-month {
+    display: flex;
+    justify-content: space-between;
+    height: 2em;
+}
+
+.calendar-month-name {
+    font-weight: bold;
+}
+
+.calendar-month-back-button {
+    color: rgba(0,0,0,0.25)
+}
+
+.calendar-month-next-button {
+    color: black;
+}
+
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 40px);
+    grid-template-rows: repeat(6, 40px);
+    width: 287px;
+    height: 246px;
+    gap: 1px;
+}
+
+.calendar-outline {
+    outline: 1px grey solid;
+}
+
+.calendar-day {
+    padding: 2px;
+}
+
+.calendar-day:hover {
+    background-color: lightgray;
+}
+
+.today {
+    background-color: blue;
+}

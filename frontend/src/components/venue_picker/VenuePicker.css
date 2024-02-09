@@ -1,0 +1,45 @@
+
+.venue-picker {
+    background-color: #dafff2;
+    margin: 1em;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.venue-picker-label {
+    padding: .5em;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+
+.venue-picker-option {
+    padding: .25em .5em .25em 1em;
+    display: flex;
+    justify-content: space-between;
+    background-color: #c3e7da;
+}
+
+.venue-picker-apply-button {
+    padding: 10px;
+    font-weight: bold;
+    border-top: 1px solid black;
+    font-size: large;
+    text-align: center;
+    height: 21px;
+}
+.venue-picker-apply-button:hover {
+    cursor: pointer;
+}
+
+.venue-picker-apply-button:active {
+    font-size: medium;
+}
+
+.venue-picker-options {
+    max-height: 300px;
+    overflow: auto;
+}
