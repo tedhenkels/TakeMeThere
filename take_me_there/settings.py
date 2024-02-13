@@ -51,7 +51,7 @@ INSTALLED_APPS = [
     'take_me_there.apps.EventsConfig',
     'take_me_there.apps.VenuesConfig',
     'take_me_there.apps.UserConfig',
-    'frontend'
+    'take_me_there.frontend.apps.FrontendConfig'
 ]
 
 MIDDLEWARE = [
@@ -136,9 +136,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = 'static/'
-STATICFILES_DIRS = [
-    BASE_DIR / "static"
-    ]
+STATICFILES_DIRS = [BASE_DIR / "static"]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
@@ -147,7 +145,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 WEBPACK_LOADER = {
     'DEFAULT': {
-        'BUNDLE_DIR_NAME': 'frontend/',
+        'BUNDLE_DIR_NAME': 'main',
         'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.json')
     }
 }

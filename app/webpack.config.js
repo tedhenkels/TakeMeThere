@@ -3,19 +3,19 @@ const BundleTracker = require("webpack-bundle-tracker");
 
 module.exports = {
   entry: {
-    frontend: "./frontend/src/index",
+    main: "./src/index",
   },
   // output: {
-  //   path: path.resolve("static"),
+  //   path: path.resolve("../static/"),
   //   filename: "[name]-[fullhash].js",
   //   publicPath: "static/",
   //   clean: true
   // },
   output: {
-    path: path.resolve(__dirname, "static"),
+    path: path.resolve(__dirname, "../static"),
     // Cannot use publicPath: "auto" here because we need to specify the full URL,
     // since we're serving the files with the Webpack devServer:
-    publicPath: "http://localhost:3000/static",
+    publicPath: "http://localhost:3000/static/",
     filename: "[name]-[contenthash].js",
   },
 
@@ -30,7 +30,7 @@ module.exports = {
   },
   plugins: [
     new BundleTracker({
-      path: __dirname,
+      path: path.resolve(__dirname, "../"),
       filename: "webpack-stats.json",
     }),
   ],

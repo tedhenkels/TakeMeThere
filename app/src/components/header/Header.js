@@ -23,13 +23,14 @@ export const Header = () => {
   const navigate = useNavigate();
   const { user, setUser } = useContext(userContext);
 
+  console.log(user)
+
   useEffect(() => {
     if (user === undefined) {
       const onError = (error) => console.log(error);
 
       LoginAPI(setUser, onError);
     }
-    console.log("hello from header");
   }, [setUser, user]);
 
   const navigateToPage = (path) => {

@@ -4,6 +4,7 @@ import { Venue } from "../../components/venue/Venue";
 import { DatePicker } from "../../components/date_picker/DatePicker";
 import { VenuePicker } from "../../components/venue_picker/VenuePicker";
 import userContext from "../../UserContext";
+import { FetchEventsAPI } from "../../apis/FetchEventsAPI";
 
 const fadeIn = (element) => {
   if (element.classList.contains("fade-out")) {
@@ -21,21 +22,6 @@ const fadeOut = (element) => {
   }
 };
 
-const fetchEvents = (queryParams, onSuccess, onError) => {
-  const eventsQueryParams = new URLSearchParams(queryParams);
-
-  const url = `http://localhost:8000/api/events?${eventsQueryParams}`;
-
-  fetch(url)
-    .then((response) => response.json())
-    .then((data) => {
-      onSuccess(data);
-    })
-    .catch((error) => {
-      onError(error);
-    });
-};
-
 export const EventsPage = () => {
   const [venues, setVenues] = useState([]);
   const { user, setUser } = useContext(userContext);
@@ -50,7 +36,7 @@ export const EventsPage = () => {
       console.log(error);
     };
 
-    fetchEvents({}, onSuccess, onError);
+    FetchEventsAPI(onSuccess, onError);
   }, []);
 
   const onClickFilterVenues = (filteredVenues) => {
@@ -76,7 +62,7 @@ export const EventsPage = () => {
       ),
     };
 
-    fetchEvents(queryParams, onSuccess, onError);
+    FetchEventsAPI(onSuccess, onError, queryParams);
   };
 
   return (
