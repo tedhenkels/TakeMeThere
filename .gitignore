@@ -1,2 +1,10 @@
 /node_modules/
 /venv/
+/static
+
+webpack-stats.json
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
