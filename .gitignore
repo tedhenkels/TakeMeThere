@@ -1,6 +1,8 @@
 /node_modules/
 /venv/
-/static
+/static/
+.idea
+take_me_there/.env
 
 webpack-stats.json
 
