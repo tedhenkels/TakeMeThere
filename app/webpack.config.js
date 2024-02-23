@@ -5,19 +5,19 @@ module.exports = {
   entry: {
     main: "./src/index",
   },
-  output: {
-    path: path.resolve("../static/"),
-    filename: "[name]-[fullhash].js",
-    publicPath: "static/",
-    clean: true
-  },
   // output: {
-  //   path: path.resolve(__dirname, "../static"),
-  //   // Cannot use publicPath: "auto" here because we need to specify the full URL,
-  //   // since we're serving the files with the Webpack devServer:
-  //   publicPath: "http://localhost:3000/static/",
-  //   filename: "[name]-[contenthash].js",
+  //   path: path.resolve("../static/"),
+  //   filename: "[name]-[fullhash].js",
+  //   publicPath: "static/",
+  //   clean: true
   // },
+  output: {
+    path: path.resolve(__dirname, "../static"),
+    // Cannot use publicPath: "auto" here because we need to specify the full URL,
+    // since we're serving the files with the Webpack devServer:
+    publicPath: "http://localhost:3000/static/",
+    filename: "[name]-[contenthash].js",
+  },
 
   devtool: "source-map", // Optional: Choose an appropriate devtool for your needs
   devServer: {

@@ -16,7 +16,7 @@ const months = [
   "December",
 ];
 
-const getMonth = (monthShown) => {
+const getMonthName = (monthShown) => {
   return months[monthShown.month];
 };
 
@@ -83,15 +83,21 @@ const CalendarGrid = ({ monthShown, startDate, onClickDay }) => {
     if (i >= startDayForMonth && j <= numberOfDaysForMonth) {
       calendarDayClassList.push("calendar-day");
       calendarDayInnerText = j;
+
+      if (startDate !== undefined && startDate.day === j && startDate.month === monthShown.month && startDate.year === monthShown.year) {
+        calendarDayClassList.push("today")
+      }
+
       j++;
     }
 
     const calendarDay = (
       <div
-        className={calendarDayClassList.join(" ")}
-        onClick={(e) => {
-          console.log(e.target);
-        }}
+          key={`calendar-grid-square-${j}`}
+          className={calendarDayClassList.join(" ")}
+          onClick={(e) => {
+            onClickDay({day: calendarDayInnerText, ...monthShown})
+          }}
       >
         {calendarDayInnerText}
       </div>
@@ -143,7 +149,7 @@ const CalendarNavigation = ({ monthShown, setMonthShown }) => {
       >
         {"\u25C0"}
       </div>
-      <div className="calendar-month-name">{getMonth(monthShown)}</div>
+      <div className="calendar-month-name">{getMonthName(monthShown)}</div>
       <div className="navigation-button-enabled" onClick={clickNextMonth}>
         {"\u25B6"}
       </div>
@@ -152,10 +158,15 @@ const CalendarNavigation = ({ monthShown, setMonthShown }) => {
 };
 
 const Calendar = ({ hidden }) => {
-  const [monthShown, setMonthShown] = useState({
-    month: new Date().getMonth(),
-    year: new Date().getFullYear(),
-  });
+  const month = new Date().getMonth()
+  const year = new Date().getFullYear()
+
+  const [monthShown, setMonthShown] = useState({month,  year});
+  const [startDate, setStartDate] = useState()
+
+  const onClickDay = (selectedDate) => {
+    setStartDate(selectedDate);
+  }
 
   return (
     <>
@@ -165,7 +176,7 @@ const Calendar = ({ hidden }) => {
             monthShown={monthShown}
             setMonthShown={setMonthShown}
           />
-          <CalendarGrid monthShown={monthShown} />
+          <CalendarGrid monthShown={monthShown} startDate={startDate} onClickDay={onClickDay}/>
         </div>
       )}
     </>

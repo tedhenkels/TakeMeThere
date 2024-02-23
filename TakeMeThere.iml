@@ -15,10 +15,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (TakeMeThere)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="main-18327cf224002c1448c0" level="application" />
     <orderEntry type="library" name="main-0d5564a2aae614ba3681" level="application" />
   </component>
   <component name="TemplatesService">

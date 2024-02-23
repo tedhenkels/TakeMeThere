@@ -21,6 +21,7 @@ class EventModelSerializer(ModelSerializer):
     class Meta:
         model = Event
         fields = '__all__'
+        depth = 1
 
 
 class ListEventsByVenueSerializer(ModelSerializer):
@@ -38,8 +39,8 @@ class ListEventsAPI(APIView):
             include_qs = unquote(request.query_params.get('include'))
             query_params['name__in'] = include_qs.split(",")
 
-        venues = Venue.objects.filter(**query_params)
-        serializer = ListEventsByVenueSerializer(instance=venues, many=True)
+        venues = Event.objects.filter(**query_params)
+        serializer = EventModelSerializer(instance=venues, many=True)
 
         return Response(serializer.data)
 

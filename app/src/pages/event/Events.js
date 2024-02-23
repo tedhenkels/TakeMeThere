@@ -44,6 +44,15 @@ export const EventsPage = () => {
     fadeOut(eventsDiv);
     const onSuccess = (data) => {
       setTimeout(() => {
+
+        data.reduce((venuesMap, currentEvent) => {
+          if(!(currentEvent.venue.name in venuesMap)) {
+            venuesMap[currentEvent.venue.name] = [currentEvent]
+            return venuesMap
+          }
+          venuesMap[currentEvent.venue.name] = venuesMap[currentEvent.venue.name].append(currentEvent)
+        }, {})
+
         setVenues(data);
         fadeIn(document.getElementById("events"));
       }, 1100);
@@ -75,7 +84,7 @@ export const EventsPage = () => {
         {venues.map(
           (venue) =>
             !venue.hidden && (
-              <Venue venueInformation={venue} user={user} setUser={setUser} />
+              <Venue venueInformation={venue} user={user} setUser={setUser} key={venue.name}/>
             ),
         )}
       </div>
